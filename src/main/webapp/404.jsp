@@ -12,7 +12,9 @@
 <div class="container">
     <div class="mt-5 ms-5 me-5">
 
-        <h1>Bem-vindo, Admin!</h1>
+        <h1>Ops!</h1>
+        <h4>404 - Página não encontrada!</h4>
+        <h4>Que pena! a página que você esta procurando não foi encontrada.</h4>
 
     </div>
 </div>
